@@ -78,4 +78,4 @@ const  clid = argv[4];
       clickByText(page, 'Allow');
     }, 1200)
   }); // end of await selector
-})();#
+})();
